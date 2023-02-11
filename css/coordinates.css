@@ -1,0 +1,76 @@
+.active .conteiner0 {
+    --i:1;--x:0;--y:0;
+}
+.active .conteiner1 {
+    --i:1;--x:-1;--y:-1;
+} 
+
+.active .conteiner2 {
+    --i:2;--x:0;--y:-1;
+}
+.active .conteiner3 {
+    --i:3;--x:1;--y:-1;
+}
+.active .conteiner4 {
+    --i:4;--x:1;--y:0;
+}
+.active .conteiner5 {
+    --i:1;--x:1;--y:1;
+}
+.active .conteiner6 {
+    --i:2;--x:0;--y:1;
+}
+.active .conteiner7 {
+    --i:3;--x:-1;--y:1;
+}
+.active .conteiner8 {
+    --i:4;--x:-1;--y:0;
+}
+.active .conteiner9 {
+    --i:1;--x:-1;--y:-2;
+}
+.active .conteiner10 {
+    --i:2;--x:0;--y:-2;
+}
+.active .conteiner11 {
+    --i:3;--x:1;--y:-2;
+}
+.active .conteiner12 {
+    --i:4;--x:2;--y:-2;
+}
+.active .conteiner13 {
+    --i:1;--x:2;--y:-1;
+}
+.active .conteiner14 {
+    --i:2;--x:2;--y:0;
+}
+.active .conteiner15 {
+    --i:3;--x:2;--y:1;
+}
+.active .conteiner16 {
+    --i:4;--x:2;--y:2;
+}
+.active .conteiner17 {
+    --i:1;--x:1;--y:2;
+}
+.active .conteiner18 {
+    --i:2;--x:0;--y:2;
+}
+.active .conteiner19 {
+    --i:3;--x:-1;--y:2;
+}
+.active .conteiner20 {
+    --i:3;--x:-2;--y:2;
+}
+.active .conteiner21 {
+    --i:4;--x:-2;--y:1;
+}
+.active .conteiner22 {
+    --i:1;--x:-2;--y:0;
+}
+.active .conteiner23 {
+    --i:2;--x:-2;--y:-1;
+}
+.active .conteiner24 {
+    --i:2;--x:-2;--y:-2;
+}
